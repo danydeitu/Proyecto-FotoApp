@@ -161,7 +161,6 @@ def generar_boceto_bordes(img: Image.Image, umbral_binario: int = 127, canny_min
 
     return bordes_umbral, boceto_canny
 
-
 # 5. MENÚ INTERACTIVO CON VALIDACIÓN DE FLUJO
 def ejecutar_menu():
     imagen_actual = None
