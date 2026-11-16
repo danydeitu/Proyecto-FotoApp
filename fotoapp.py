@@ -201,7 +201,7 @@ def ejecutar_menu():
                 generar_boceto_bordes(imagen_actual)
 
             elif opcion == "5":
-                print("Saliendo de FotoApp. ¡Mucho éxito con tu defensa!")
+                print("Saliendo de FotoApp. ¡Muchas Gracias!")
                 break
             else:
                 print("Opción inválida. Por favor ingresa un número del 1 al 5.")
